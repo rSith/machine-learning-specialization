@@ -40,4 +40,6 @@ This repo is a study log — a place to practice implementing ML concepts from f
 
 ## 📖 Reference
 
+- [Python — w3schools](https://www.w3schools.com/python/default.asp)
 - [Machine Learning Specialization — DeepLearning.AI / Stanford Online](https://www.coursera.org/specializations/machine-learning-introduction)
+  
